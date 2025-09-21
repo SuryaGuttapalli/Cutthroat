@@ -419,6 +419,7 @@ We're grateful to our amazing team of contributors who made Cutthroat possible:
 - **Surya Guttapalli** - Frontend Developer & UI/UX Designer
 - **Sai Charan Koganti** - Smart Contract Developer
 - **Saketh Mantol** - Infrastructure Manager
+- **Varshith** - Resource Finder
 
 ---
 
